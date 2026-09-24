@@ -37,5 +37,10 @@
       "javascript": false,
       "bem": false
     }
+  },
+  "targets": {
+    "default": {
+      "publicUrl": "./"
+    }
   }
 }
